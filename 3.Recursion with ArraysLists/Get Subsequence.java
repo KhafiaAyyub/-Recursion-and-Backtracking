@@ -2,7 +2,7 @@
 Easy 
 
 1. You are given a string str.
-2. Complete the body of getSS function - without changing signature - to calculate all subsequences of str.
+2. Complete the body of getSS function - to calculate all subsequences of str.
 
 Input Format
 A string str

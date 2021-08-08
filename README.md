@@ -46,7 +46,7 @@
 **3. Recursion-Backtracking**
 
 - [Flood Fill]
-- [Target Sum Subsets]
+- [Target Sum Subsets](https://github.com/KhafiaAyyub/Recursion-and-Backtracking/blob/main/5.Recursion-Backtracking/Target%20Sum%20Subsets.java)
 - [N Queens]
 - [Kinghts Tour]
 

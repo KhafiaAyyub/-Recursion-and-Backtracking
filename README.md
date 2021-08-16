@@ -36,7 +36,7 @@
 
 - [Print Subsequence](https://github.com/KhafiaAyyub/Recursion-and-Backtracking/blob/main/4.Recusion%20on%20the%20way%20up/Print%20Subsequence.java)
 - [Print KPC]
-- [Print Stair Paths]
+- [Print Stair Paths](https://github.com/KhafiaAyyub/Recursion-Backtracking-and-DP/blob/main/4.Recusion%20on%20the%20way%20up/Print%20Stair%20Paths.java)
 - [Print Maze Paths]
 - [Print Maze Path with Jumps]
 - [Print Permutations](https://github.com/KhafiaAyyub/Recursion-and-Backtracking/blob/main/4.Recusion%20on%20the%20way%20up/Print%20Permutations.java)

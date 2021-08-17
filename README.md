@@ -1,6 +1,9 @@
 # Recursion and Backtracking
 
 
+
+# Recursion
+
 **1. Introduction of Recursion**
 
 - [Print Decreasing](https://github.com/KhafiaAyyub/Recursion-and-Backtracking/blob/main/1.Introduction%20to%20Recursion/Print%20Decreasing.java)
@@ -51,7 +54,8 @@
 - [Kinghts Tour]
 
 
-**Dynamic Programming**
+# Dynamic Programming
+
 - [Fibonacci]
 - [Climb Stairs](https://github.com/KhafiaAyyub/Recursion-Backtracking-and-DP/tree/main/Dynamic%20Programming/Climb%20Stairs)
   - [Using Memoization Method](https://github.com/KhafiaAyyub/Recursion-Backtracking-and-DP/blob/main/Dynamic%20Programming/Climb%20Stairs/Using%20Memoization%20Method.java)

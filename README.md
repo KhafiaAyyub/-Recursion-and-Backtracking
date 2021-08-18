@@ -62,6 +62,6 @@
 - [Climb Stairs](https://github.com/KhafiaAyyub/Recursion-Backtracking-and-DP/tree/main/Dynamic%20Programming/Climb%20Stairs)
   - [Using Memoization Method](https://github.com/KhafiaAyyub/Recursion-Backtracking-and-DP/blob/main/Dynamic%20Programming/Climb%20Stairs/Using%20Memoization%20Method.java)
   - [Using Tabulation Method](https://github.com/KhafiaAyyub/Recursion-Backtracking-and-DP/blob/main/Dynamic%20Programming/Climb%20Stairs/Using%20Tabulation%20Method.java)
-- [Climb Stairs with Variable Jumps]
+- [Climb Stairs with Variable Jumps](https://github.com/KhafiaAyyub/Recursion-Backtracking-and-DP/blob/main/Dynamic%20Programming/Climb%20Stairs%20With%20Variable%20Jumps.java)
 
 

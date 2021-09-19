@@ -1,8 +1,6 @@
 # Recursion, Backtracking and DP
 
 
-
-
 # Recursion
 
 **1. Introduction of Recursion**
